@@ -1,0 +1,23 @@
+{
+  "name": "code",
+  "version": "1.0.0",
+  "description": "",
+  "main": "solution.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LohitakshTrehan/Posist.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LohitakshTrehan/Posist/issues"
+  },
+  "homepage": "https://github.com/LohitakshTrehan/Posist#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.9",
+    "sha1": "^1.1.1"
+  }
+}
